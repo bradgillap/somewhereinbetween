@@ -1,5 +1,5 @@
 
-
+![alt text](splash.png)
 Preamble: Give a quick overview about what your Modlist is about, the core idea and also mention that it's a Wabbajack Modlist (some might not know what Wabbajack is so link to this README)
 Requirements: Simple list of requirements such as min CPU, GPU, RAM and most importantly: Drive Space. Also include a list of accounts the user needs such as a Nexus Mods, LoversLab, VectorPlexus Account or any other sites your are downloading from
 Installation: Installation instructions specific to your Modlist. You can take a look at some of the Modlists linked below as almost all of them use the same instructions with minor changes
