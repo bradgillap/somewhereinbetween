@@ -49,6 +49,7 @@ This is basic installation to just get up and running. For additional features l
 
 Some mods require Dot Net frameworks. [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
+![Dot Net Requirement](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
 
 
 
