@@ -9,7 +9,7 @@ A Skyrim Modding Automation.
 While looking at popular modlists I noticed a few issues:
 
 * Modlists are built for extremely powerful computers or extremely low performance computers. 
-* Nearly all the major overhauls run their own Nexus mod pages with custom edits designed for their particular modlists. 
+* Nearly all the major overhauls run their own Nexus mod pages with custom edits designed for their particular modlists. This creates incompatibilities if you wish to add or change their lists.
 
 This makes customization difficult for the amateur modder and lead me to building my own modlist. I followed a set a of rules for myself to avoid bugs, add content, and improve on the vanilla experience based on Reddit & Nexus community sentiment. This is based on my modding experiences over 10 years of Skyrim and general I.T professional knowledge.
 
