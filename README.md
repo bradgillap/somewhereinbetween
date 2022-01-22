@@ -1,5 +1,5 @@
 
-![S.I.B Logo](SplashV2large.png)
+![S.I.B Logo](images/SplashV2large.png)
 
 
 # Somewhere In Between (S.I.B) 
@@ -88,7 +88,7 @@ Make sure you open SkyrimSE at least once to allow for configuration files to up
 
 Some mods require Dot Net frameworks. [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
-[![https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime](dotnet.png "Dot Net 6 Required")](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
+[![https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime](images/dotnet.png "Dot Net 6 Required")](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
 ### Wabbajack Mod installer (Step 3)
 
