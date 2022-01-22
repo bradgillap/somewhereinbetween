@@ -5,7 +5,7 @@
 # Somewhere In Between (S.I.B) 
 A Skyrim Modding Automation.
 
-https://github.com/bradgillap/somewhereinbetween/releases
+Releases: https://github.com/bradgillap/somewhereinbetween/releases
 
 # Table of Contents
 
