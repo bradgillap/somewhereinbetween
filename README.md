@@ -78,8 +78,8 @@ Wabbajack is the program that will install all of the mods based on my list and 
 
 ### Latest S.I.B Release (Step 4)
 
-1. Donwload latest https://github.com/bradgillap/somewhereinbetween/releases
-2. Extract with 7zip to your WabbaJack folder.
+1. Download the latest release from: https://github.com/bradgillap/somewhereinbetween/releases
+2. Extract with 7zip to your WabbaJack folder or a subfolder within your wabbajack folder.  Example C:\Wabbajack\SIB\releasefiles.example
 
 ### Open Wabbajack and prepare to install the S.I.B List.
 
