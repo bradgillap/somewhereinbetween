@@ -27,7 +27,7 @@ The following are rules I followed while building this:
 * I will build for the latest 1.6xxx edition binary only as this is the future.
 * I will focus on the experience based on sentiment rather than number of mods, or comparison to the big mod lists.
 * I will maintain appropriate documentation. 
-* I will mark if it's safe to upgrade or starting a new save is required. 
+* I will mark if it's safe to upgrade or if a new save is required on release pages.
 
 ### Cons
 * This will be an enhanced vanilla experience but mostly vanilla with self contained well tested additons only. Don't expect gigantic NPC addtions, dungeons.
