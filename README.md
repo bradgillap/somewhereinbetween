@@ -13,7 +13,25 @@ A SkyrimSE Modding Automation for [Wabbajack](https://www.wabbajack.org/#/).
 
 # Table of Contents
 
-put some anchor links here.
+- [Somewhere In Between (S.I.B)](#somewhere-in-between--sib-)
+  * [Latest Release](#latest-release)
+  * [Overview](#overview)
+    + [Pros](#pros)
+    + [Cons](#cons)
+  * [Requirements](#requirements)
+    + [System Specifications](#system-specifications)
+    + [Website Accounts Required](#website-accounts-required)
+  * [Installation Instructions](#installation-instructions)
+    + [Install SkyrimSE. (Step 1)](#install-skyrimse--step-1-)
+    + [Dot Net 6.0 Requirements. (Step 2)](#dot-net-60-requirements--step-2-)
+    + [Wabbajack Mod installer (Step 3)](#wabbajack-mod-installer--step-3-)
+    + [Latest S.I.B Release (Step 4)](#latest-sib-release--step-4-)
+    + [Open Wabbajack and prepare to install the S.I.B List. (Step 5)](#open-wabbajack-and-prepare-to-install-the-sib-list--step-5-)
+    + [Post installation Instructions](#post-installation-instructions)
+  * [Important Mods You should Know About](#important-mods-you-should-know-about)
+  * [MCM Recommendations](#mcm-recommendations)
+  * [Changelog](#changelog)
+
 
 ## Overview
 
@@ -22,30 +40,27 @@ While looking at popular modlists I noticed a few issues:
 * Modlists are built for extremely powerful computers or extremely low performance computers. 
 * Nearly all the major overhauls run their own Nexus mod pages with custom edits designed for their particular modlists. This creates incompatibilities if you wish to add or change their lists.
 
-This makes customization difficult for the amateur modder and lead me to building my own modlist. I followed a set a of rules for myself to avoid bugs, add content, and improve on the vanilla experience based on Reddit & Nexus community sentiment. This is based on my modding experiences over 10 years of Skyrim and general I.T professional knowledge.
+This will make customization difficult for the amateur modder and has lead me to building this modlist. I followed a set a of rules for myself to avoid bugs, add content, and improve on the vanilla experience based on Reddit & Nexus community sentiment. This is based on my modding experiences over 10 years of Skyrim and general I.T knowledge.
 
 The following are rules I followed while building this:
 
-### Rules/Pros
+### Pros
 * All mods must work together using patches available on the  Nexusmods site. No extenuating custom edits. Nothing an amateur couldn't do themselves by reading.
 * All texture mods should be aware of middle grade graphics cards and systems. Textures right in front of your face should be 1-2k while everything else should look passable to play.
-* I will read at least the first few pages worth of comments on each mod  page to determine compatibility, issues, and community sentiment. 
-* I will teleport into cells affected by mods and test interactions where possible.
-* I will stress test by setting movement speed high and traversing the world.
-* I will be aware of the various types of systems in SkyrimSE and how they interact with each other. 
-* I will build for the latest 1.6xxx edition binary only as this is the future.
-* I will focus on the experience based on sentiment rather than number of mods, or comparison to the big mod lists.
-* I will maintain appropriate documentation. 
-* I will mark if it's safe to upgrade or if a new save is required on release pages.
+* Read at least the first few pages worth of comments on each mod  page to determine compatibility, issues, and community sentiment. 
+* Testing by teleporting into cells affected by mods and test interactions where possible. Stress test by setting movement speed high and traversing the world.
+* Build for the latest 1.6xxx edition binary only as this is the future.
+* I will focus on the experience based on community sentiment rather than number of mods, or comparison to the big mod lists.
+* I will maintain appropriate documentation and mark if it's safe to upgrade or if a new save is required on release pages along with a changelog.
 
 ### Cons
-* This will be an enhanced vanilla experience but mostly vanilla with self contained well tested additons only. Don't expect gigantic NPC addtions, dungeons.
-* This will not be the kitchen sink and may have mods stripped out that are problematic.
 * I do not have the time to do entire play through bug testing between versions. Please provide feedback through issues.
 
 ## Requirements
 
-### Specifications
+Requirements for storage and machine specifications.
+
+### System Specifications
 
 Size Installed: **88 Gigabytes**. This is in addition to your vanilla 14GB SkyrimSE install.
 
@@ -54,13 +69,14 @@ My Specs:
 * **RAM**: Memory 800mhz DDR3 32GB. (16gb is probably fine).
 * **Video**: Geforce 1060 6GB Edition (16nm). This is similar to a Geforce 1660.
 
-### Accounts
+### Website Accounts Required
 
-1. A [NexusMods](https://www.nexusmods.com/modrewards#/store/item/35) premium account.
-2. An account on https://vectorplexus.com/. (Note: Do not use oauth style sign-ins. A regular account works best).
+1. [NexusMods](https://www.nexusmods.com/modrewards#/store/item/35) premium account. **Paid Membership**.
+2. [Vectorplus](https://vectorplexus.com/) **Free Account**.
 
+(Note: Do not use oauth style sign-ins. A regular account works best). 
 
-## Installation 
+## Installation Instructions
 
 This is basic installation to just get up and running. For additional features like hair physics, please see the wiki pages on this github. I provide step by step screenshots and gifs that will getyou up and running in a few minutes.
 
@@ -87,13 +103,35 @@ Wabbajack is the program that will install all of the mods based on my list and 
 
 ### Open Wabbajack and prepare to install the S.I.B List. (Step 5)
 
+Wabbajack png with marked paths and descriptions by number for the user.
 
+1. Install folder description
+2. Downloads folder description
+3. Skyrim location description
+4. Website button description
+5. Manifest button description
+6. Readme button description
 
-Template stuff.
-------
+### Post installation Instructions
 
-Important Mods you should know about: This is an important section you should not forget. Go in-depth on core mods and talk about important mods the user should know about. It can be overwhelming for the user to just be thrusted into a completely modded world without knowing what's even included and possible.
+The game is installed and will work but be missing some features. If you wish to add your own mods. These post install steps should be run everytime you make an addition or change to the modlist.
 
-MCM: If your Modlist has some sort of MCM like for Skyrim or Fallout 4 then you should give instructions on what settings to use
+Features that won't work until post install steps are completed:
+* Hair Physics.
+* Correct items won't be in some chests.
+* Misc items will have weight.
 
-Changelog: Should not be in the README and can be in a separate file called CHANGELOG.md but make sure to create one
+Click here for Post Install Steps on Wiki
+
+## Important Mods You should Know About
+
+Please see wiki page XXX
+
+## MCM Recommendations 
+
+Please See wiki page XXX
+
+## Changelog
+
+Please see Changelog page XXX
+
