@@ -5,7 +5,7 @@
 # Somewhere In Between (S.I.B) 
 A SkyrimSE Modding Automation for [Wabbajack](https://www.wabbajack.org/#/).
 
-##Latest Releases
+## Latest Release
 
 | S.I.B Version | SkyrimSE Version | Release Date | Download Modlist |New Save Required?                                                                         |
 |:-------------:|:----------------:|:------------:|:----------------:|:-----------------------------------------------------------------------------------------:|
