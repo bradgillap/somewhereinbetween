@@ -60,20 +60,27 @@ My Specs:
 
 This is basic installation to just get up and running. For additional features like hair physics, please see the wiki pages on this github. I provide step by step screenshots and gifs that will getyou up and running in a few minutes.
 
-### Dot Net 6.0 Requirements.
+### Dot Net 6.0 Requirements. (Step 1)
 
 Some mods require Dot Net frameworks. [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
 [![https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime](dotnet.png "Dot Net 6 Required")](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
-### Wabbajack Mod installer
+### Wabbajack Mod installer (Step 2)
 
 Wabbajack is the program that will install all of the mods based on my list and complete the automation. 
 
 [Download WabbaJack](https://www.wabbajack.org/#/) and save it to an empty folder on your computer. 
 
+#### Latest S.I.B Release
+
+1. Donwload latest https://github.com/bradgillap/somewhereinbetween/releases
+2. Extrac with 7zip to your WabbaJack folder.
 
 
+
+Template stuff.
+------
 
 Important Mods you should know about: This is an important section you should not forget. Go in-depth on core mods and talk about important mods the user should know about. It can be overwhelming for the user to just be thrusted into a completely modded world without knowing what's even included and possible.
 
