@@ -1,10 +1,15 @@
 
 ![S.I.B Logo](SplashV2large.png)
 
+
 # Somewhere In Between (S.I.B) 
 A Skyrim Modding Automation.
 
 https://github.com/bradgillap/somewhereinbetween/releases
+
+# Table of Contents
+
+put some anchor links here.
 
 ## Overview
 
