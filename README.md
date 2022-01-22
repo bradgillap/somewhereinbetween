@@ -5,9 +5,9 @@
 # Somewhere In Between (S.I.B) 
 A Skyrim Modding Automation.
 
-| S.I.B Version | SkyrimSE Version | Release Date |
-|:-------------:|:----------------:|:------------:|
-| v0.0.7        | 1.6.353.0        | 2022/22/01   |
+| S.I.B Version | SkyrimSE Version | Release Date | Download Modlist |
+|:-------------:|:----------------:|:------------:|:----------------:|
+| v0.0.7        | 1.6.353.0        | 2022/22/01   | [SIB_0.0.7.7z](https://github.com/bradgillap/somewhereinbetween/releases/download/v0.0.7/SIB_0.0.7.7z) |
 
 * Latest Release: **v0.0.7** 
 * For SkryimSE Version: 1.6.353.0
