@@ -5,9 +5,14 @@
 # Somewhere In Between (S.I.B) 
 A Skyrim Modding Automation.
 
+| S.I.B Version | SkyrimSE Version | Release Date |
+|:-------------:|:----------------:|:------------:|
+| v0.0.7        | 1.6.353.0        | 2022/22/01   |
+
 * Latest Release: **v0.0.7** 
-* SkryimSE Version: 1.6.353.0
-* Date: 2022-01-22: https://github.com/bradgillap/somewhereinbetween/releases
+* For SkryimSE Version: 1.6.353.0
+* Released: 2022-01-22: 
+* https://github.com/bradgillap/somewhereinbetween/releases
 
 
 # Table of Contents
