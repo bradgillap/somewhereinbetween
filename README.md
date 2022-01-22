@@ -20,7 +20,7 @@ The following are rules I followed while building this:
 ### Rules/Pros
 * All mods must work together using patches available on the  Nexusmods site. No extenuating custom edits. Nothing an amateur couldn't do themselves by reading.
 * All texture mods should be aware of middle grade graphics cards and systems. Textures right in front of your face should be 1-2k while everything else should look passable to play.
-* I will read at least the first few pages worth of comments on each mod  page to determine compatibility and issues and general community sentiment. 
+* I will read at least the first few pages worth of comments on each mod  page to determine compatibility, issues, and community sentiment. 
 * I will teleport into cells affected by mods and test interactions where possible.
 * I will stress test by setting movement speed high and traversing the world.
 * I will be aware of the various types of systems in SkyrimSE and how they interact with each other. 
