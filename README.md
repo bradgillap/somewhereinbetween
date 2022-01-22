@@ -60,22 +60,28 @@ My Specs:
 
 This is basic installation to just get up and running. For additional features like hair physics, please see the wiki pages on this github. I provide step by step screenshots and gifs that will getyou up and running in a few minutes.
 
-### Dot Net 6.0 Requirements. (Step 1)
+### Install SkyrimSE. (Step 1)
+
+Make sure you open SkyrimSE at least once to allow for configuration files to update with your default video settings. 
+
+### Dot Net 6.0 Requirements. (Step 2)
 
 Some mods require Dot Net frameworks. [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
 [![https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime](dotnet.png "Dot Net 6 Required")](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
-### Wabbajack Mod installer (Step 2)
+### Wabbajack Mod installer (Step 3)
 
 Wabbajack is the program that will install all of the mods based on my list and complete the automation. 
 
 [Download WabbaJack](https://www.wabbajack.org/#/) and save it to an empty folder on your computer. 
 
-#### Latest S.I.B Release
+### Latest S.I.B Release (Step 4)
 
 1. Donwload latest https://github.com/bradgillap/somewhereinbetween/releases
-2. Extrac with 7zip to your WabbaJack folder.
+2. Extract with 7zip to your WabbaJack folder.
+
+### Open Wabbajack and prepare to install the S.I.B List.
 
 
 
