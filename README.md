@@ -39,9 +39,9 @@ The following are rules I followed while building this:
 Size Installed: **88 Gigabytes**. This is in addition to your vanilla 14GB SkyrimSE install.
 
 My Specs: 
-* **CPU** Intel Core i7 3770 3.4ghz overlcoked to 4.2ghz (Ivy Bridge 22nm).
-* **RAM** Memory 800mhz DDR3 32GB. (16gb is probably fine).
-* **Video** Geforce 1060 6GB Edition (16nm). This is similar to a Geforce 1660.
+* **CPU**: Intel Core i7 3770 3.4ghz overlcoked to 4.2ghz (Ivy Bridge 22nm).
+* **RAM**: Memory 800mhz DDR3 32GB. (16gb is probably fine).
+* **Video**: Geforce 1060 6GB Edition (16nm). This is similar to a Geforce 1660.
 
 ### Accounts
 
@@ -59,9 +59,14 @@ Some mods require Dot Net frameworks. [Download Here](https://dotnet.microsoft.c
 
 [![https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime](dotnet.png "Dot Net 6 Required")](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
-### Wabbajack
+### Wabbajack Mod installer
 
-Wabbajack is the program that will install all of the mods based on my list.
+Wabbajack is the program that will install all of the mods based on my list and complete the automation. 
+
+[Download WabbaJack](https://www.wabbajack.org/#/) and save it to an empty folder on your computer. 
+
+
+
 
 Important Mods you should know about: This is an important section you should not forget. Go in-depth on core mods and talk about important mods the user should know about. It can be overwhelming for the user to just be thrusted into a completely modded world without knowing what's even included and possible.
 
