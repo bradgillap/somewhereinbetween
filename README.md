@@ -1,5 +1,5 @@
 
-![S.I.B Logo](splash.png)
+![S.I.B Logo](SplashV2large.png)
 
 #Title
 
