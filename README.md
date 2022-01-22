@@ -47,7 +47,7 @@ This is basic installation to just get up and running. For additional features l
 
 ### Dot Net Requirements 6.0.
 
-Some mods require Dot Net frameworks. [Download Here](https://github.com/Codygits/TPF-Updates/blob/main/README.md)
+Some mods require Dot Net frameworks. [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
 
 
