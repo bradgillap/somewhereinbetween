@@ -86,7 +86,8 @@ Make sure you open SkyrimSE at least once to allow for configuration files to up
 
 ### Dot Net 6.0 Requirements. (Step 2)
 
-Some mods require Dot Net frameworks. [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
+1. Some mods require Dot Net frameworks. [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
+2. Some mods require Visual C++.         [Download Here](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
 [![https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime](Images/dotnet.png "Dot Net 6 Required")](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
