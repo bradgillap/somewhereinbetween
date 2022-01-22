@@ -27,24 +27,30 @@ The following are rules I followed while building this:
 * I will maintain appropriate documentation. 
 * I will mark if it's safe to upgrade or starting a new save is required. 
 
-### Cons:
-* This will be an enhanced vanilla experience but mostly vanilla. 
+### Cons
+* This will be an enhanced vanilla experience but mostly vanilla with self contained well tested additons only. Don't expect gigantic NPC addtions, dungeons.
 * This will not be the kitchen sink and may have mods stripped out that are problematic.
-* I do not have the time to do entire play through bug testing between versions.
+* I do not have the time to do entire play through bug testing between versions. Please provide feedback through issues.
 
-## Requirements: 
+## Requirements
 
-Size Installed: 88 Gigabytes. This is in additomn to your 14GB SkyrimSE install.
+Size Installed: **88 Gigabytes**. This is in addition to your vanilla 14GB SkyrimSE install.
 
 My Specs: 
-* Intel Core i7 3770 3.4ghz overlcoked to 4.2ghz (Ivy Bridge 22nm)
-* Memory 800mhz DDR3 32GB
-* Geforce 1060 6GB Edition (16nm). This is similar to a Geforce 1660.
+* **CPU** Intel Core i7 3770 3.4ghz overlcoked to 4.2ghz (Ivy Bridge 22nm).
+* **RAM** Memory 800mhz DDR3 32GB. (16gb is probably fine).
+* **Video** Geforce 1060 6GB Edition (16nm). This is similar to a Geforce 1660.
+
+## Installation 
+
+This is basic installation to just get up and running. For additional features like hair physics, please see the wiki pages on this github. I provide step by step screenshots and gifs that will getyou up and running in a few minutes.
+
+### Dot Net Requirements 6.0.
+
+Some mods require Dot Net frameworks. [Download Here](https://github.com/Codygits/TPF-Updates/blob/main/README.md)
 
 
 
-
-Installation: Installation instructions specific to your Modlist. You can take a look at some of the Modlists linked below as almost all of them use the same instructions with minor changes
 
 Important Mods you should know about: This is an important section you should not forget. Go in-depth on core mods and talk about important mods the user should know about. It can be overwhelming for the user to just be thrusted into a completely modded world without knowing what's even included and possible.
 
