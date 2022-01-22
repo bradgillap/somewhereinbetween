@@ -49,7 +49,7 @@ This is basic installation to just get up and running. For additional features l
 
 Some mods require Dot Net frameworks. [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
-![https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime](dotnet.png "Dot Net 6 Required")
+[![https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime](dotnet.png "Dot Net 6 Required")](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
 
 
