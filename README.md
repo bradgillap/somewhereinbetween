@@ -9,12 +9,6 @@ A Skyrim Modding Automation.
 |:-------------:|:----------------:|:------------:|:----------------:|
 | v0.0.7        | 1.6.353.0        | 2022/22/01   | [SIB_0.0.7.7z](https://github.com/bradgillap/somewhereinbetween/releases/download/v0.0.7/SIB_0.0.7.7z) |
 
-* Latest Release: **v0.0.7** 
-* For SkryimSE Version: 1.6.353.0
-* Released: 2022-01-22: 
-* https://github.com/bradgillap/somewhereinbetween/releases
-
-
 # Table of Contents
 
 put some anchor links here.
