@@ -55,7 +55,7 @@ My Specs:
 
 This is basic installation to just get up and running. For additional features like hair physics, please see the wiki pages on this github. I provide step by step screenshots and gifs that will getyou up and running in a few minutes.
 
-### Dot Net Requirements 6.0.
+### Dot Net 6.0 Requirements.
 
 Some mods require Dot Net frameworks. [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
