@@ -4,6 +4,8 @@
 # Somewhere In Between (S.I.B) 
 A Skyrim Modding Automation.
 
+https://github.com/bradgillap/somewhereinbetween/releases
+
 ## Overview
 
 While looking at popular modlists I noticed a few issues:
