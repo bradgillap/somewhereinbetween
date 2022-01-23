@@ -9,6 +9,7 @@ A SkyrimSE Modding Automation for [Wabbajack](https://www.wabbajack.org/#/).
 
 | S.I.B Version | SkyrimSE Version | Release Date | Download Modlist |New Save Required?                                                                         |
 |:-------------:|:----------------:|:------------:|:----------------:|:-----------------------------------------------------------------------------------------:|
+| v0.0.8        | 1.6.353.0        | 2022/22/01   | [SIB_0.0.8.7z](https://github.com/bradgillap/somewhereinbetween/releases/download/v0.0.8/SIB_0.0.8.7z) | No |
 | v0.0.7        | 1.6.353.0        | 2022/22/01   | [SIB_0.0.7.7z](https://github.com/bradgillap/somewhereinbetween/releases/download/v0.0.7/SIB_0.0.7.7z) | Yes |
 
 # Table of Contents
