@@ -1,5 +1,9 @@
 # Change Log
 
+## 2022-01-23 0.1.0 Unreleased
+* Updated [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=description) 2.9.2.3.
+* Updated [Pause Menu After Loading](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=description) v4.
+
 ## 2022-01-23 0.0.9 Released (New Save Recommended due to eFPS)
 * Updated [Faster-HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339?tab=files) to 1.25.
 * Added [HD LODs Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/3333?tab=description) 512 version.
