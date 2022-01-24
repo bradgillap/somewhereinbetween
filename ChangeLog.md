@@ -1,16 +1,17 @@
 # Change Log
 
-## 2022-01-23 Unreleased (New Save Recommended due to eFPS)
-* Updated [Faster-HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339?tab=files) to 1.25
+## 2022-01-23 0.0.9 Released (New Save Recommended due to eFPS)
+* Updated [Faster-HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339?tab=files) to 1.25.
 * Added [HD LODs Textures SE](https://www.nexusmods.com/skyrimspecialedition/mods/3333?tab=description) 512 version.
 * Added [Simple Wearable Lanterns - Toggle Hotkey](https://www.nexusmods.com/skyrimspecialedition/mods/59727?tab=description).
 * Added [Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/4155?tab=description).
 * Added [Clockwork Cleaned Textures](https://www.nexusmods.com/skyrimspecialedition/mods/55677?tab=description).
 * Added [Additional Clockwork](https://www.nexusmods.com/skyrimspecialedition/mods/47087?tab=description).
-* Added [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035)
-* Added [eFPS Exteriors Base](https://www.nexusmods.com/skyrimspecialedition/mods/54907)
-* Added [eFPS AE Edition *unpurchased](https://www.nexusmods.com/skyrimspecialedition/mods/58727)
-* Added [eFPS Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54998)
+* Added [Lucien](https://www.nexusmods.com/skyrimspecialedition/mods/20035).
+* Added [eFPS Exteriors Base](https://www.nexusmods.com/skyrimspecialedition/mods/54907).
+* Added [eFPS AE Edition *unpurchased](https://www.nexusmods.com/skyrimspecialedition/mods/58727).
+* Added [eFPS Patches](https://www.nexusmods.com/skyrimspecialedition/mods/54998).
+* Added [Loot Preventifier](https://www.nexusmods.com/site/mods/82?tab=description).
 
 ## 2022-01-22 0.0.8 Released
 
