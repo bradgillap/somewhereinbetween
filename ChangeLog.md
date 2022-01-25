@@ -3,7 +3,9 @@
 ## 2022-01-23 0.1.0 Unreleased
 * Updated [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=description) to 2.9.2.3.
 * Updated [Pause Menu After Loading](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=description) to v4.
-* Updated [Immersive Equipment Displays](blob:https://web.telegram.org/eb518b3d-5747-4396-bdf5-b6c42631c0ae) to 1.2.1.
+* Updated [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001?tab=description) to 1.2.1.
+* Added [CC's HQ Firewood](https://www.nexusmods.com/skyrimspecialedition/mods/4616?tab=description).
+* Added [Burnt Firewood](https://www.nexusmods.com/skyrimspecialedition/mods/16982?tab=description). Fixes glowing meshes on embersxd.
 
 ## 2022-01-23 0.0.9 Released (New Save Recommended due to eFPS)
 * Updated [Faster-HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339?tab=files) to 1.25.
