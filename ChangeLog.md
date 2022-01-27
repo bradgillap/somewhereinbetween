@@ -1,6 +1,6 @@
 # Change Log
 
-## 2022-01-25 0.1.0 Unreleased
+## 2022-01-26 0.1.0 Unreleased
 * Updated [Serana Dialogue Add-On SE](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=description) to 2.9.2.4.
 * Updated [Pause Menu After Loading](https://www.nexusmods.com/skyrimspecialedition/mods/32161?tab=description) to v4.
 * Updated [Immersive Equipment Displays](https://www.nexusmods.com/skyrimspecialedition/mods/62001?tab=description) to 1.2.1.
@@ -8,6 +8,13 @@
 * Added [Burnt Firewood](https://www.nexusmods.com/skyrimspecialedition/mods/16982?tab=description). Fixes glowing meshes on embersxd.
 * Updated [Azureite Weathers](https://www.nexusmods.com/skyrimspecialedition/mods/42731?tab=description) to 1.81.
 * Enabled ENB shader caching on enblocal.
+* Added [Lux Parallax Mesh Project](https://www.nexusmods.com/skyrimspecialedition/mods/62248) Fixes window meshes to work better with LUX.
+* Added [Castle Volkihar HD Parallax fixes](https://www.nexusmods.com/skyrimspecialedition/mods/62545).
+* Updated [Faster-HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339?tab=files) to 1.26.
+* Updated [JK's Blue Palace](https://www.nexusmods.com/skyrimspecialedition/mods/45324?tab=files) to 1.21.
+* Updated [Dear Diary Dark Mode - SkyUI Menus Replacer SE](https://www.nexusmods.com/skyrimspecialedition/mods/60837?tab=description) to 1.01.
+* Added a bunch of default LOD's for mods that had them available. Generating LOD's guide will be needed for advanced users. An occlusion mod needs to be disabled for it to work.
+
 
 ## 2022-01-23 0.0.9 Released (New Save Recommended due to eFPS)
 * Updated [Faster-HDT-SMP](https://www.nexusmods.com/skyrimspecialedition/mods/57339?tab=files) to 1.25.
