@@ -32,9 +32,10 @@ A starting point with mods that I use for every type of playthrough.
 ### Included
 
 * Vanilla Mesh,Bug, Quest Fixes.
-* User Interface Improvements.
+* User Interface Improvements and Minor Quality of Life Adjustments.
 * Mesh & Texture Replacers.
 * Lighting and FX Replacers.
+* First Person Animations
 * Performance Optimizations.
 * Documentation in Mod Oragnizer and Github.
 
@@ -44,6 +45,7 @@ A starting point with mods that I use for every type of playthrough.
 * New Quests
 * New Items, Weapons, or Armour
 * Interrior or Exterior World Edits
+* 3rd Person Animations
 
 ## Requirements
 
@@ -63,7 +65,7 @@ My Specs:
 1. [NexusMods](https://www.nexusmods.com/modrewards#/store/item/35) premium account. **Paid Membership**.
 2. [Vectorplus](https://vectorplexus.com/) **Free Account**.
 
-(Note: Do not use OAuth style sign-ins. A regular account works best with Wabbajack). 
+(Note: **Do not use OAuth style sign-ins.** A regular account works best with Wabbajack). 
 
 ## Installation Instructions
 
@@ -78,6 +80,7 @@ Make sure you open SkyrimSE at least once to allow for configuration files to up
 1. Some mods require Dot Net frameworks. [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 2. Some mods require Visual C++.         [Download x64 Version Here](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
 
+Get both CLI and Desktop Versions of DOTNET 6.
 [![https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime](Images/dotnet.png "Dot Net 6 Required")](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
 ### Wabbajack Mod installer (Step 3)
@@ -89,7 +92,13 @@ Wabbajack is the program that will install all of the mods based on my list and 
 ### Latest S.I.B Release (Step 4)
 
 1. Download the latest release from: https://github.com/bradgillap/somewhereinbetween/releases
-2. Extract with 7zip to your WabbaJack folder or a subfolder within your wabbajack folder.  Example C:\Wabbajack\SIB\releasefiles.example
+2. Extract with 7zip to your WabbaJack folder or a subfolder within your wabbajack folder.  
+
+Example: 
+
+``` 
+C:\Wabbajack\SIB\release\S.I.B AE.wabbajack
+```
 
 ### Open Wabbajack and prepare to install the S.I.B List. (Step 5)
 
@@ -102,26 +111,8 @@ Wabbajack png with marked paths and descriptions by number for the user.
 5. Manifest button description
 6. Readme button description
 
-### Post installation Instructions
+## Post installation Instructions
 
-The game is installed and will work but be missing some features. If you wish to add your own mods. These post install steps should be run everytime you make an addition or change to the modlist.
-
-Features that won't work until post install steps are completed:
-* Hair Physics.
-* Correct items won't be in some chests.
-* Misc items will have weight.
-
-Click here for Post Install Steps on Wiki
-
-## Important Mods You should Know About
-
-Please see wiki page XXX
-
-## MCM Recommendations 
-
-Please See wiki page XXX
-
-## Changelog
-
-Please see Changelog page XXX
+1. Run Open ModOrganizer.exe and run the SKSE exe. Make sure the game starts.
+2. Add your own mods or see the Wiki on this github to walk through my recommendations.
 

@@ -20,7 +20,7 @@ A starting point with mods that I use for every type of playthrough.
 
 * Vanilla Bug&Quest Fixes
 * Mesh Fixes
-* User Interface Improvements
+* User Interface Improvements and Minor Quality of Life Adjustments
 * Mesh & Texture Replacers
 * Performance Optimizations
 * Documentation in Mod Oragnizer and Github
