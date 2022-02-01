@@ -2,12 +2,12 @@
 ![S.I.B Logo](Images/SplashV2large.png)
 
 
-# Somewhere In Between (S.I.B) 
+# Somewhere In Between (S.I.B) AE 
 A SkyrimSE Modding Automation for [Wabbajack](https://www.wabbajack.org/#/).
 
 ## Latest Release
 
-| S.I.B Version | SkyrimSE Version | Release Date | Download Modlist |
+| S.I.B Version | SkyrimAE Version | Release Date | Download Modlist |
 |:-------------:|:----------------:|:------------:|:----------------:|
 | v0.1.0        | 1.6.353.0        | Soon         |                  |
 
@@ -24,32 +24,27 @@ While looking at popular modlists I noticed a few issues:
 
 This will make customization difficult for the amateur modder and has lead me to building this modlist. I followed a set a of rules for myself to avoid bugs, add content, and improve on the vanilla experience based on Reddit & Nexus community sentiment. This is based on my modding experiences over 10 years of Skyrim and general I.T knowledge.
 
-The following are rules I followed while building this:
-
-Requires: Skyrim AE (Paid Version)
-A starting point with mods that I use for every type of playthrough.
-
 ### Included
 
 * Vanilla Mesh,Bug, Quest Fixes.
 * User Interface Improvements and Minor Quality of Life Adjustments.
 * Mesh & Texture Replacers.
 * Lighting and FX Replacers.
-* First Person Animations
+* First Person Animations.
 * Performance Optimizations.
 * Documentation in Mod Oragnizer and Github.
 
 ### Purposefully Not Included
 
-* Gameplay and Game System Changes
-* New Quests
-* New Items, Weapons, or Armour
-* Interrior or Exterior World Edits
-* 3rd Person Animations
+* Gameplay and Game System Changes.
+* New Quests.
+* New Items, Weapons, or Armour.
+* Interrior or Exterior World Edits.
+* 3rd Person Animations.
 
 ## Requirements
 
-Requirements for storage and machine specifications.
+Software: Skyrim Anniversery Edition from Steam.
 
 ### System Specifications
 

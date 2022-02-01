@@ -18,17 +18,19 @@ A starting point with mods that I use for every type of playthrough.
 
 ### Included
 
-* Vanilla Bug&Quest Fixes
-* Mesh Fixes
-* User Interface Improvements and Minor Quality of Life Adjustments
-* Mesh & Texture Replacers
-* Performance Optimizations
-* Documentation in Mod Oragnizer and Github
+* Vanilla Mesh,Bug, Quest Fixes.
+* User Interface Improvements and Minor Quality of Life Adjustments.
+* Mesh & Texture Replacers.
+* Lighting and FX Replacers.
+* First Person Animations.
+* Performance Optimizations.
+* Documentation in Mod Oragnizer and Github.
 
 ### Purposefully Not Included
 
-* Gameplay and Game System Changes
-* New Quests
-* New Items, Weapons, or Armour
-* Interrior or Exterior World Edits
+* Gameplay and Game System Changes.
+* New Quests.
+* New Items, Weapons, or Armour.
+* Interrior or Exterior World Edits.
+* 3rd Person Animations.
 
