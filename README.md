@@ -13,7 +13,7 @@ A SkyrimSE Modding Automation for [Wabbajack](https://www.wabbajack.org/#/).
 | Variant                                                   | S.I.B Version | SkyrimAE Version | Release Date | Download Modlist |
 |:---------------------------------------------------------:|:-------------:|:----------------:|:------------:|:----------------:|
 | Somewhere In Between                                      | v0.1.0        | 1.6.353.0        | Soon         |                  |
-| Authors Cut [(More Info)]()                               | v0.1.0        | 1.6.353.0        | Soon         |                  |
+| Authors Cut [(More Info)](wiki/SIB-Authors-Cut)           | v0.1.0        | 1.6.353.0        | Soon         |                  |
 
 # Table of Contents
 
