@@ -8,7 +8,7 @@ A SkyrimSE Modding Automation for [Wabbajack](https://www.wabbajack.org/#/).
 ## Latest Release
 
 * S.I.B is without world edits, new items, quests. This is designed for the user to build upon. 
-* Authors cut has my hand selected gameplay, quest, recommendations already installed. 
+* Authors cut has my hand selected gameplay, quest, and recommendations already installed. 
 
 | Variant                                                   | S.I.B Version | SkyrimAE Version | Release Date | Download Modlist |
 |:---------------------------------------------------------:|:-------------:|:----------------:|:------------:|:----------------:|
