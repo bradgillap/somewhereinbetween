@@ -40,7 +40,6 @@ This will make customization difficult for the amateur modder and has lead me to
 * New Quests.
 * New Items, Weapons, or Armour.
 * Interrior or Exterior World Edits.
-* 3rd Person Animations.
 
 ## Requirements
 
