@@ -33,9 +33,6 @@ This will make customization difficult for the amateur modder and has lead me to
 * First Person Animations.
 * Performance Optimizations.
 * Documentation in Mod Oragnizer and Github.
-
-### Purposefully Not Included
-
 * Gameplay and Game System Changes.
 * New Quests.
 * New Items, Weapons, or Armour.
