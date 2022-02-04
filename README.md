@@ -10,10 +10,10 @@ A SkyrimSE Modding Automation for [Wabbajack](https://www.wabbajack.org/#/).
 * S.I.B is without world edits, new items, quests. This is designed for the user to build upon. 
 * Authors cut has my hand selected gameplay, quest, and recommendations already installed. 
 
-| Variant                                                   | S.I.B Version | SkyrimAE Version | Release Date | Download Modlist |
-|:---------------------------------------------------------:|:-------------:|:----------------:|:------------:|:----------------:|
-| Somewhere In Between                                      | v0.1.0        | 1.6.353.0        | Soon         |                  |
-| Authors Cut [(More Info)](wiki/SIB-Authors-Cut)           | v0.1.0        | 1.6.353.0        | Soon         |                  |
+| Variant                                                                                          | S.I.B Version | SkyrimAE Version | Release Date | Download Modlist |
+|:------------------------------------------------------------------------------------------------:|:-------------:|:----------------:|:------------:|:----------------:|
+| Somewhere In Between                                                                             | v0.1.0        | 1.6.353.0        | Soon         |                  |
+| Authors Cut [(More Info)](https://github.com/bradgillap/somewhereinbetween/wiki/SIB-Authors-Cut) | v0.1.0        | 1.6.353.0        | Soon         |                  |
 
 # Table of Contents
 
