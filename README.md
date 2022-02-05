@@ -73,11 +73,16 @@ Make sure you open SkyrimSE at least once to allow for configuration files to up
 
 ### MS Framework Requirements. (Step 2)
 
-1. Some mods require Dot Net frameworks. [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
-2. Some mods require Visual C++.         [Download x64 Version Here](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+1. Dot Net frameworks. [Download Here](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
 
-Get both CLI and Desktop Versions of DOTNET 6.
+**Get both CLI and Desktop Versions of DOTNET 6.**
 [![https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime](Images/dotnet.png "Dot Net 6 Required")](https://dotnet.microsoft.com/en-us/download/dotnet/6.0/runtime)
+
+3. Visual C++.         [Download x64 Version](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170)
+4. DOTNET SDK          [Download x64 Version](https://dotnet.microsoft.com/en-us/download)
+
+
+
 
 ### Wabbajack Mod installer (Step 3)
 
