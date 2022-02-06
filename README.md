@@ -15,25 +15,24 @@ A SkyrimSE Modding Automation for [Wabbajack](https://www.wabbajack.org/#/).
 | Somewhere In Between                                                                             | v1.0.0        | 1.6.353.0        | Soon         |                  |
 | Authors Cut [(More Info)](https://github.com/bradgillap/somewhereinbetween/wiki/SIB-Authors-Cut) | v0.1.0        | 1.6.353.0        | Soon         |                  |
 
-# Table of Contents
+# Table of contents
 
-- [Somewhere In Between (S.I.B) AE](#somewhere-in-between--sib--ae)
-  * [Latest Release](#latest-release)
+- [Somewhere In Between (S.I.B) AE](#somewhere-in-between-sib-ae)
+  - [Latest Release](#latest-release)
 - [Table of Contents](#table-of-contents)
-  * [Overview](#overview)
-    + [Included](#included)
-    + [Purposefully Not Included](#purposefully-not-included)
-  * [System Specifications](#system-specifications)
-  * [Requirements](#requirements)
-    + [Website User Accounts](#website-user-accounts)
-  * [Installation Instructions](#installation-instructions)
-    + [Install Skyrim AE Via Steam. (Step 1)](#install-skyrim-ae-via-steam--step-1-)
-    + [MS Framework Requirements. (Step 2)](#ms-framework-requirements--step-2-)
-    + [Wabbajack Mod installer (Step 3)](#wabbajack-mod-installer--step-3-)
-    + [Latest S.I.B Release (Step 4)](#latest-sib-release--step-4-)
-    + [Open Wabbajack and prepare to install the S.I.B List. (Step 5)](#open-wabbajack-and-prepare-to-install-the-sib-list--step-5-)
-  * [Post installation Instructions](#post-installation-instructions)
-
+  - [Overview](#overview)
+    - [Included](#included)
+    - [Purposefully Not Included](#purposefully-not-included)
+  - [System Specifications](#system-specifications)
+  - [Requirements](#requirements)
+    - [Website User Accounts](#website-user-accounts)
+  - [Installation Instructions](#installation-instructions)
+    - [Install Skyrim AE Via Steam. (Step 1)](#install-skyrim-ae-via-steam-step-1)
+    - [MS Framework Requirements. (Step 2)](#ms-framework-requirements-step-2)
+    - [Wabbajack Mod installer (Step 3)](#wabbajack-mod-installer-step-3)
+    - [Latest S.I.B Release (Step 4)](#latest-sib-release-step-4)
+    - [Open Wabbajack and prepare to install the S.I.B List. (Step 5)](#open-wabbajack-and-prepare-to-install-the-sib-list-step-5)
+  - [Post installation Instructions](#post-installation-instructions)
 ## Overview
 
 While looking at popular mod lists I noticed a few issues:
