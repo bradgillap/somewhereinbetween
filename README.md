@@ -20,7 +20,7 @@ A Skyrim AE Mod Automation for [Wabbajack](https://www.wabbajack.org/#/). Design
  | Variant              | S.I.B Version | Skyrim AE Version | Release |  
  |----------------------|---------------|-------------------|---------|
  | Somewhere In Between | v1.0.0        | 1.6.353.0         | [Download](https://github.com/bradgillap/somewhereinbetween/releases/tag/v1.0.0)        |
- | [Authors Cut]()          | v0.1.0        | 1.6.353.0         | Soon |
+ | [Authors Cut](https://github.com/bradgillap/somewhereinbetween/wiki/SIB-Authors-Cut)          | v0.1.0        | 1.6.353.0         | Soon |
 
 
 # Table of contents
