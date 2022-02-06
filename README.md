@@ -12,11 +12,6 @@ A Skyrim AE Mod Automation for [Wabbajack](https://www.wabbajack.org/#/). Design
 * S.I.B is without world edits, new items, quests. This is designed for the user to build upon.
 * Authors cut has my hand selected gameplay, quest, and recommendations already installed.
 
-| Variant                                                                                          | S.I.B Version | Skyrim AE Version | Release Date | Download Mod list |
-|:------------------------------------------------------------------------------------------------:|:-------------:|:----------------:|:------------:|:----------------:|
-| Somewhere In Between                                                                             | v1.0.0        | 1.6.353.0        | [Download](https://github.com/bradgillap/somewhereinbetween/releases/download/v1.0.0/S.I.B.AE.v1.0.0.7z)           |                  |
-| Authors Cut [(More Info)](https://github.com/bradgillap/somewhereinbetween/wiki/SIB-Authors-Cut) | v0.1.0        | 1.6.353.0        | Soon         |                  |
-
  | Variant              | S.I.B Version | Skyrim AE Version | Release |  
  |----------------------|---------------|-------------------|---------|
  | Somewhere In Between | v1.0.0        | 1.6.353.0         | [Download](https://github.com/bradgillap/somewhereinbetween/releases/tag/v1.0.0)        |
