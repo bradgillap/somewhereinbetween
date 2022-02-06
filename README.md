@@ -92,7 +92,7 @@ Post Installation instructions available on the [wiki](https://github.com/bradgi
 
 ### Install Skyrim AE Via Steam. (Step 1)
 
-Make sure you open SkyrimSE at least once to allow for configuration files to update with your default video settings. Allow creation club content to download. Then close the game.
+Make sure you open Skyrim AE at least once to allow for configuration files to update with your default video settings. Allow creation club content to download. Then close the game.
 
 ### MS Framework Requirements. (Step 2)
 
@@ -103,7 +103,7 @@ Make sure you open SkyrimSE at least once to allow for configuration files to up
 
 3. Visual C++.         [Download x64 Version](https://docs.microsoft.com/en-US/cpp/windows/latest-supported-vc-redist?view=msvc-170).
 4. DOTNET SDK          [Download x64 Version](https://dotnet.microsoft.com/en-us/download).
-5. DOTNET 3.5 (Available Ondemand for Windows 10 Users) [Instructions](https://docs.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows).
+5. DOTNET 3.5 (Available On-demand for Windows 10 Users) [Instructions](https://docs.microsoft.com/en-us/dotnet/framework/install/dotnet-35-windows).
 
 ### Wabbajack Mod installer (Step 3)
 
@@ -128,7 +128,7 @@ C:\Wabbajack\SIB\releases\S.I.B AE.wabbajack
 
 Wabbajack png with marked paths and descriptions by number for the user.
 
-1. **Target Modlist** : Point this to the release file you downloaded for S.I.B.
+1. **Target Mod list** : Point this to the release file you downloaded for S.I.B.
 2. **Installation Location** : Set this to the folder you want to install S.I.B to. Example: ``C:\S.I.B``
 3. **Download Location** : Your Downloads folder for files downloaded from sites like Nexusmods. Example : ``C:\S.I.B\Downloads``
 
