@@ -17,6 +17,23 @@ A SkyrimSE Modding Automation for [Wabbajack](https://www.wabbajack.org/#/).
 
 # Table of Contents
 
+- [Somewhere In Between (S.I.B) AE](#somewhere-in-between--sib--ae)
+  * [Latest Release](#latest-release)
+- [Table of Contents](#table-of-contents)
+  * [Overview](#overview)
+    + [Included](#included)
+    + [Purposefully Not Included](#purposefully-not-included)
+  * [System Specifications](#system-specifications)
+  * [Requirements](#requirements)
+    + [Website User Accounts](#website-user-accounts)
+  * [Installation Instructions](#installation-instructions)
+    + [Install Skyrim AE Via Steam. (Step 1)](#install-skyrim-ae-via-steam--step-1-)
+    + [MS Framework Requirements. (Step 2)](#ms-framework-requirements--step-2-)
+    + [Wabbajack Mod installer (Step 3)](#wabbajack-mod-installer--step-3-)
+    + [Latest S.I.B Release (Step 4)](#latest-sib-release--step-4-)
+    + [Open Wabbajack and prepare to install the S.I.B List. (Step 5)](#open-wabbajack-and-prepare-to-install-the-sib-list--step-5-)
+  * [Post installation Instructions](#post-installation-instructions)
+
 ## Overview
 
 While looking at popular mod lists I noticed a few issues:
@@ -105,18 +122,16 @@ C:\Wabbajack\SIB\releases\S.I.B AE.wabbajack
 
 ### Open Wabbajack and prepare to install the S.I.B List. (Step 5)
 
-![Wabba Install Window](Images/icon48.png "Logo Title Text 1")
+[![Images/Wabbajack2.PNG](Images/Wabbajack2.PNG "Dot Net 6 Required")]
 
 Wabbajack png with marked paths and descriptions by number for the user.
 
-1. Install folder description
-2. Downloads folder description
-3. Skyrim location description
-4. Website button description
-5. Manifest button description
-6. Readme button description
+1. **Target Modlist** : Point this to the release file you downloaded for S.I.B.
+2. **Installation Location** : Set this to the folder you want to install S.I.B to. Example: ``C:\S.I.B``
+3. **Download Location** : Your Downloads folder for files downloaded from sites like Nexusmods. Example : ``C:\S.I.B\Downloads``
 
 ## Post installation Instructions
 
-1. Run Open ModOrganizer.exe and run the SKSE exe. Make sure the game starts.
-2. Add your own mods or see the Wiki on this github to walk through my recommendations.
+While S.I.B will work out of the box. We recommend the post installation instructions because it adds further stability and visualization improvements.
+
+[S.I.B Wiki Post Installation Instructions](https://github.com/bradgillap/somewhereinbetween/wiki).
