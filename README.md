@@ -3,14 +3,16 @@
 
 
 # Somewhere In Between (S.I.B) AE
-A SkyrimSE Modding Automation for [Wabbajack](https://www.wabbajack.org/#/).
+A Skyrim AE Mod Automation for [Wabbajack](https://www.wabbajack.org/#/). Designed to work as a starting point for modding AE on midrange hardware.
+
+>🧠 Experience level recommended with Skyrim Mods Intermediate to Advanced with learning oppourtunities for beginners.
 
 ## Latest Release
 
 * S.I.B is without world edits, new items, quests. This is designed for the user to build upon.
 * Authors cut has my hand selected gameplay, quest, and recommendations already installed.
 
-| Variant                                                                                          | S.I.B Version | SkyrimAE Version | Release Date | Download Modlist |
+| Variant                                                                                          | S.I.B Version | Skyrim AE Version | Release Date | Download Mod list |
 |:------------------------------------------------------------------------------------------------:|:-------------:|:----------------:|:------------:|:----------------:|
 | Somewhere In Between                                                                             | v1.0.0        | 1.6.353.0        | Soon         |                  |
 | Authors Cut [(More Info)](https://github.com/bradgillap/somewhereinbetween/wiki/SIB-Authors-Cut) | v0.1.0        | 1.6.353.0        | Soon         |                  |
