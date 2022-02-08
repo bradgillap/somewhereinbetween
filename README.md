@@ -9,6 +9,8 @@ A Skyrim AE Mod Automation for [Wabbajack](https://www.wabbajack.org/#/). Design
 
 ## Latest Release
 
+**1 Known CTD Bug**: When entering Solitude for the first time, the scripted sequence will CTD. I have narrowed this down to LUX plugin and have made a bug report.
+
 * S.I.B is without world edits, new items, quests. This is designed for the user to build upon.
 * Authors cut has my hand selected gameplay, quest, and recommendations already installed.
 
@@ -60,11 +62,11 @@ The intention of S.I.B is to provide a Wabbajack list to build upon. Stripped do
 * Gameplay and Game System Changes.
 * New Quests.
 * New Items, Weapons, or Armour.
-* Interrior or Exterior World Edits.
-
-
+* Interior or Exterior World Edits.
 
 ## System Specifications
+
+S.I.B AE Download Size: **60'ish Gigabytes**.
 
 S.I.B AE Install Size: **101'ish Gigabytes**.
 
@@ -82,7 +84,7 @@ Software: Skyrim Anniversary Edition from Steam.
 1. [NexusMods](https://www.nexusmods.com/modrewards#/store/item/35)  **Free or Premium**.
 2. [Vectorplus](https://vectorplexus.com/) **Free Account**.
 
-(Note: **Do not use OAuth style sign-ins.** A regular account works best with Wabbajack).
+> 📝 Note: **Do not use OAuth style sign-ins.** A regular account works best with Wabbajack.
 
 ## Installation Instructions
 
