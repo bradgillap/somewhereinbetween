@@ -9,8 +9,6 @@ A Skyrim AE Mod Automation for [Wabbajack](https://www.wabbajack.org/#/). Design
 
 ## Latest Release
 
-**1 Known CTD Bug**: When entering Solitude for the first time, the scripted sequence will CTD. I have narrowed this down to LUX plugin and have made a bug report. Triggering the event and then teleporting away for a 5 hours may be a solution.
-
 * S.I.B is without world edits, new items, quests. This is designed for the user to build upon.
 * Authors cut has my hand selected gameplay, quest, and recommendations already installed.
 
